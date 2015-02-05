@@ -1,0 +1,32 @@
+{
+  "name": "fax.ir",
+  "version": "1.0.0",
+  "description": "A Node.js client library for accessing http://fax.ir APIs, it comes with OAuth 2.0 support.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ranjbaran/fax-ir-api-nodejs-client.git"
+  },
+  "keywords": [
+    "fax",
+    "rest",
+    "oauth"
+  ],
+  "author": "Ghazaleh Ranjbaran <ranjbaran.gh@gmail.com",
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "http://github.com/ranjbaran/fax-ir-api-nodejs-client/blob/master/LICENSE-MIT"
+    }
+  ],
+  "bugs": {
+    "url": "https://github.com/ranjbaran/fax-ir-api-nodejs-client/issues"
+  },
+  "homepage": "https://github.com/ranjbaran/fax-ir-api-nodejs-client",
+  "dependencies": {
+    "simple-oauth2": "^0.2.1"
+  }
+}
